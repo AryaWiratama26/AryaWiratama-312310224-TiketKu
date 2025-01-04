@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TiketKuu</string>
+    <string name="hi"><b>Hi, Arya!</b></string>
+    <string name="pesanskr"><b>Pesan Tiket Sekarang dengan TiketKu.</b></string>
+    <string name="pilihtkt"><b>Pilih Tiket</b></string>
+    <string name="pilihanin"><b>Informasi Liburan</b></string>
+    <string name="labuan"><b>Labuan Bajo</b></string>
+    <string name="welcome"><b><i>WELCOME!</i></b></string>
+    <string name="login"><b>LOGIN</b></string>
+    <string name="daftar"><b>DAFTAR</b></string>
+    <string name="daftarakun"><b>Daftar Akun Yuk!!!</b></string>
+    <string name="loginakun"><b>Login Sekarang Yuk!!!</b></string>
+    <string name="email"><b>Email</b></string>
+    <string name="password"><b>Password</b></string>
+    <string name="ulangpass"><b>Konfirmasi Password</b></string>
+    <string name="loginnk"><b>Login</b></string>
+    <string name="daftarnk"><b>Daftar</b></string>
+    <string name="tiketpesawat"><b>Tiket Pesawat</b></string>
+    <string name="tiketkereta"><b>Tiket Kereta</b></string>
+    <string name="tiketbus"><b>Tiket Bus</b></string>
+    <string name="psnbtn"><b>Pesan</b></string>
+    <string name="profile"><b>Profile</b></string>
+    <string name="account"><b>Account</b></string>
+    <string name="voucher"><b>Voucher</b></string>
+    <string name="detailPes"><b>Detail Pesanan</b></string>
+    <string name="hargabatik"><b><u>Rp 2000.000</u></b></string>
+    <string name="tiketpes"><b>Tiket Pesanan Anda</b></string>
+    <string name="pembayar"><b>Pembayaran Tiket</b></string>
+</resources>
